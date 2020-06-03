@@ -1,17 +1,40 @@
 # Cadê?
 
+![](https://img.shields.io/badge/Version-0.0.1+1-007fb1) ![](https://img.shields.io/badge/Framework-Flutter-blue) ![](https://img.shields.io/badge/Platforms-Android%20|%20iOS-yellow)
+
+## Sumário
+
+- [Descrição](#descrição)
+- [Getting Started](#getting-started)
+- [Build or Run](#build-or-run)
+    - [To Platform Example](#to-platform-example)
+- [Autores](#autores)
+
+## Descrição
+
 Um app feito para rastrear encomendas e compras, independente da transportadora como Correios, Loggi entre outras.
-Um app totalmente free e sem propagandas, sem o objetivo de ganhar dinheiro, somente ajudar quem quer rastrear suas compras de maneira rapida e pratica, todas em um unico app.
+Totalmente free e sem propagandas, sem o objetivo de ganhar dinheiro, somente ajudar quem quer rastrear suas compras de maneira rapida e pratica, todas em um unico lugar.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+```
+example command to install this project
+```
+description of what to do for another command:
+```
+another command
+```
+Obs: You can place a note here or delete this part.
 
-A few resources to get you started if this is your first Flutter project:
+## Build or Run
+#### To Platform Example
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+description to run the command:
+```
+command to build or run
+```
+More information about the command and what happened when it was executed.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Autores
+
+- [Luan Vasco de Farias](https://github.com/LvFarias)
