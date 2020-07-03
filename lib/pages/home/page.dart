@@ -2,14 +2,13 @@ import 'package:cade_app/pages/home/store.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_mobx/flutter_mobx.dart';
 
-class MyHomePage extends StatelessWidget {
+class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
-    debugPrint("render home");
     final homeStore = HomeStore();
     return Scaffold(
       appBar: AppBar(
-        title: Text("Home"),
+        title: Text("Cadê?"),
       ),
       body: Center(
         child: Column(

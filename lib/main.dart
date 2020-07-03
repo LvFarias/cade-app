@@ -3,16 +3,16 @@ import 'package:cade_app/themes/app.dart';
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(MyApp());
+  runApp(KdAndroidApp());
 }
 
-class MyApp extends StatelessWidget {
+class KdAndroidApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Cadê?',
-      theme: appTheme,
-      home: MyHomePage(),
+      theme: kdTheme,
+      home: HomePage(),
     );
   }
 }
